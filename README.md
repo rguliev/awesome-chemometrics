@@ -1,5 +1,8 @@
 # Awesome list of chemometrics tools
 
+* [FOSS For Spectroscopy](https://bryanhanson.github.io/FOSS4Spectroscopy/)
+* [awesome-spectra](https://github.com/erwanp/awesome-spectra)
+
 ## Python
 
 * [chemotools](https://github.com/paucablop/chemotools) - a Python package that integrates chemometrics with Scikit-learn
@@ -9,6 +12,8 @@
 * [pybaselines](https://github.com/derb12/pybaselines) - A Python library of algorithms for the baseline correction of experimental data
 * [pyspc-unmix](https://github.com/r-hyperspec/pyspc-unmix) - Python package for unmixing hyperspectral data
 * [PySptools](https://pysptools.sourceforge.io) - PySptools. Tools for hyperspectral imaging
+* [hyperspy](https://github.com/hyperspy/hyperspy) - HyperSpy is an open source Python library for the interactive analysis of multidimensional datasets that can be described as multidimensional arrays of a given signal (for example, a 2D array of spectra, also known as a spectrum image)
+* [Spectral Python (SPy)](https://github.com/spectralpython/spectral) - a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery
 
 ## R
 
